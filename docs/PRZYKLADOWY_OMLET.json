@@ -1,0 +1,30 @@
+{
+  "title": "Omlet bananowy",
+  "description": "Omlet z bananem i gorzką czekoladą",
+  "imageUrl": null,
+  "categoryIds": ["breakfast", "dessert"],
+  "tags": ["wysokobiałkowe", "na słodko"],
+  "ingredients": [
+    "1 średni dojrzały banan (ok. 100 g)",
+    "1 jajko",
+    "60 ml kefiru/maślanki lub mleka",
+    "30 g mąki orkiszowej jasnej lub pszennej",
+    "20 g odżywki białkowej (lub budyniu waniliowego lub po prostu mąki)",
+    "½ łyżeczki proszku do pieczenia",
+    "2 kostki gorzkiej czekolady",
+    "Odrobina tłuszczu do smażenia"
+  ],
+  "steps": [
+    "Rozgnieć banana widelcem, dodaj jajko i kefir — wymieszaj.",
+    "Wsyp mąkę, odżywkę białkową, proszek i dokładnie połącz.",
+    "Dorzuć posiekaną gorzką czekoladę i delikatnie wmieszaj w masę.",
+    "Rozgrzej patelnię, zmniejsz ogień, posmaruj ją odrobiną tłuszczu i wykładaj omlet.",
+    "Smaż na małym ogniu pod przykryciem (ja smażę nawet 10 minut z jednej strony i kilka z drugiej, smażę na 6, a moja skala na indukcji to 14) z obu stron do zarumienienia. Polecam przewracać dopiero, gdy góra lekko się zetnie."
+  ],
+  "nutrition": {
+    "kcal": 452,
+    "protein": 30,
+    "fat": 13,
+    "carbs": 55
+  }
+}
