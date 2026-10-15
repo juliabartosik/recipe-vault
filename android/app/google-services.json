@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775935716138",
+    "project_id": "vault-recipe",
+    "storage_bucket": "vault-recipe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775935716138:android:9a136a86c1b20551b40c53",
+        "android_client_info": {
+          "package_name": "com.recipevault.recipe_vault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgBzjRhzOUvR5PPNqel8O26HeDRspOuek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
